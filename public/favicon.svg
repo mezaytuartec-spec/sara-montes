@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Background -->
+  <rect width="64" height="64" rx="12" fill="#F7F3EE"/>
+  <!-- Stylized S letterform in terracotta -->
+  <text
+    x="32"
+    y="47"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="46"
+    font-weight="400"
+    fill="#A8552E"
+    text-anchor="middle"
+    dominant-baseline="auto"
+    letter-spacing="-1"
+  >S</text>
+  <!-- Thin sage underline accent -->
+  <rect x="18" y="53" width="28" height="2" rx="1" fill="#5C6B4F" opacity="0.7"/>
+</svg>
